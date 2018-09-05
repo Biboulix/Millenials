@@ -1,0 +1,8 @@
+{
+  "name": "Millenials",
+  "version": "1.0.0",
+  "description": "A Yarn Project",
+  "main": "index.js",
+  "repository": "https://github.com/Biboulix/Millenials.git",
+  "license": "MIT"
+}
